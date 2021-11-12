@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Adi1200
+- 👀 I’m interested in computers
+- 🌱 I’m currently learning java
